@@ -1,6 +1,3 @@
-#run the file using "streamlit run .\main.py" in terminal:
-# F:\Data Science\Pandas\ML codebasics course\Project 1\
-# project_1_model_retraining_resources\app> streamlit run .\main.py
 
 import streamlit as st
 import prediction as prd
